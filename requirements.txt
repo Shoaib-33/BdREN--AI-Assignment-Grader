@@ -1,0 +1,8 @@
+﻿streamlit
+pypdf
+python-dotenv
+openai
+chromadb
+sentence-transformers
+transformers
+huggingface-hub
