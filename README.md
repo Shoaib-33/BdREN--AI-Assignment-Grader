@@ -24,7 +24,7 @@ Add your grading model key to `.env`:
 ```text
 OPENAI_API_KEY=your-api-key-here
 OPENAI_BASE_URL=https://api.openai.com/v1
-MODEL=gpt-4o-mini
+MODEL=5.4-nano
 HF_EMBEDDING_MODEL=sentence-transformers/all-MiniLM-L6-v2
 ```
 
