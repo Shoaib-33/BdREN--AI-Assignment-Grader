@@ -1,6 +1,7 @@
 ﻿# BdREN AI Assignment Grader
 
 A Streamlit app that grades ML assignment answers against the supplied rubric and course-book excerpt.
+![App Screenshot](bdren.png)
 
 ## What it does
 
